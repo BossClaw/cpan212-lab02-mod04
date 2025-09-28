@@ -82,6 +82,7 @@ app.get("/", (req, res) => {
 			<li><a href="/async">/async</a> - ASYNC/AWAIT DEMO</li>
 			<li><a href="/file">/file</a> - FILE READING DEMO</li>
 			<li><a href="/chain">/chain</a> - PROMISE CHAINING DEMO</li>
+			<li><a href="https://github.com/BossClaw/cpan212-lab02-mod04">GitHub</a> - Lab Source</li>
 		</ul>
 	`);
 });
